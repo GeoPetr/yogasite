@@ -5,8 +5,8 @@
     } for debugging*/ 
 
 .navbar{
-    /*background-color:rgba(195,190,144,0.8);*/
-    background-color:transparent;
+    background-color:rgba(195,190,144,0.8);
+    /*background-color:transparent;*/
     position: fixed; /* Set the navbar to fixed position */
     top: 0; /* Position the navbar at the top of the page */
     width: 100%; /* Full width */
@@ -47,7 +47,7 @@
     letter-spacing: 0.2rem;
     text-align: center;
     position: absolute;
-    top: 40%;
+    top: 50%;
     left: 50%;
     transform: translate(-50%, -50%);
 }
